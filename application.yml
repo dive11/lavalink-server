@@ -9,7 +9,7 @@ lavalink:
   server:
     password: "youshallnotpass"
     sources:
-      youtube: false # يفضل قفل المصدر القديم لتجنب التعارض مع الإضافة الجديدة
+      youtube: true
       bandcamp: true
       soundcloud: true
       twitch: true
